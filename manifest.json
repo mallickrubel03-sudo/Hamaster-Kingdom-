@@ -1,0 +1,15 @@
+{
+  "name": "Hamster Tap Game",
+  "short_name": "HamsterGame",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffe082",
+  "theme_color": "#fbc02d",
+  "icons": [
+    {
+      "src": "images/hamster.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
